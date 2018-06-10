@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.greyboxerp.studentapp" version="1.0.2" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>GreyBox Public School</name>
+<widget id="com.greyboxerp.raath" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Raath Public School</name>
     <description>
         School management App for Parents powered by GreyBox Software 
     </description>
@@ -9,7 +9,7 @@
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
-    <preference name="android-minSdkVersion" value="24" />
+    <preference name="android-minSdkVersion" value="23" />
 	<preference name="AndroidPersistentFileLocation" value="Internal" />
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0" />
     <plugin name="cordova-plugin-dialogs" source="npm" spec="~1.2.0" />
